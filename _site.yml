@@ -1,0 +1,12 @@
+name: "Informe de gira"
+navbar:
+  title: "Gira Coris"
+  left:
+    - text: "Resultados"
+      href: resultados.html
+    - text: "Piaya cayana"
+      href: Piaya.html
+    - text: "Psarocolius montezuma"
+      href:  Psarocolius.html
+
+
